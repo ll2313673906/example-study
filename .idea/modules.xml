@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thread-study/1.iml" filepath="$PROJECT_DIR$/thread-study/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-demo/book-demo.iml" filepath="$PROJECT_DIR$/book-demo/book-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-demo/book-demo1.iml" filepath="$PROJECT_DIR$/book-demo/book-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-demo/book-demo1.iml" filepath="$PROJECT_DIR$/book-demo/book-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-demo/book-demo2.iml" filepath="$PROJECT_DIR$/book-demo/book-demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-demo/example.iml" filepath="$PROJECT_DIR$/book-demo/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swing-demo/swing-demo.iml" filepath="$PROJECT_DIR$/swing-demo/swing-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-study/thread-study.iml" filepath="$PROJECT_DIR$/thread-study/thread-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-study/thread-study-demo.iml" filepath="$PROJECT_DIR$/thread-study/thread-study-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-demo/util.iml" filepath="$PROJECT_DIR$/book-demo/util.iml" />
+    </modules>
+  </component>
+</project>
