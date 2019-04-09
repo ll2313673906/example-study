@@ -32,9 +32,9 @@ public class ImgWriterTest extends JFrame implements ActionListener {
     public ImgWriterTest() {
 
         mianban1 = new JPanel();
-         mianban1.setSize(200,500);
-         mianban1.setBackground(new Color(113,234,28));
-         mianban1.setLocation(200,500);
+        mianban1.setSize(200,500);
+        mianban1.setBackground(new Color(113,234,28));
+        mianban1.setLocation(200,500);
 
 
         mianban1.setLayout(new GridLayout(8, 1,5,5));
@@ -108,7 +108,7 @@ public class ImgWriterTest extends JFrame implements ActionListener {
 
                         imgLabel = new JLabel();
                         imgLabel.setIcon(icon);
-                       centerPanel.add(imgLabel);
+                        centerPanel.add(imgLabel);
 
                         imgLabel.setSize(50, 100);
 
