@@ -1,105 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a024f510-a9c6-4994-8b47-021f77559746" name="Default Changelist" comment="">
+    <list default="true" id="a024f510-a9c6-4994-8b47-021f77559746" name="Default Changelist" comment="异常处理语句">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/bookswing/JButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/JButtonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/bookswing/JTextAreaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/JTextAreaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/bookswing/JTextFieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/JTextFieldTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/bookswing/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/bookswing/MyImageIcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/MyImageIcon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/bookswing/RadioButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/RadioButtonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/GetDay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/GetSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/AdditiveFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/AdditiveFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/BitwiseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/BitwiseOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/BreakOutsideNested.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/BreakOutsideNested.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/BreakTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/BreakTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/ChatAtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/ChatAtTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/ContinueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/ContinueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/CreateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/CreateString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/GetArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-demo/src/com/soft1841/GetArrayLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Grade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/IrreguLarArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Link.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/LoginService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Poetry.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/Poetry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Ranking.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/Ranking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Repetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/Repetition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/StringConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/TakePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/TakePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week1/Trap.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/week2/Trap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week2/BorrowABook.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/BorrowABook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week2/ExchangeRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/ExchangeRate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week2/OverLoadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/OverLoadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week2/Pad.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/Pad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week2/Pad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/Pad2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week2/RestaurantDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/RestaurantDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-demo/src/week2/Tomato.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/Tomato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/AdditiveFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/JButtonTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/JButtonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/JTextAreaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/JTextFieldTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/JTextFieldTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/JTextFieldTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/MyFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/MyFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/MyImageIcon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/MyJDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/RadioButtonTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/RadioButtonTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/bookswing/RadioButtonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week1/ChatAtTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week1/CreateString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week1/Link.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week1/StringConcatenation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/BitwiseOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/BorrowABook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/BreakOutsideNested.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/BreakTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Computer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/ContinueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/ExchangeRate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/GetArrayLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/GetDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/GetSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Grade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/IrreguLarArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/LoginService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Multiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/OverLoadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Pad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Pad2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Poetry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Ranking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Repetition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Restaurant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/RestaurantDemo$Cook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/RestaurantDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/TakePhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Tomato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/book-demo/week2/Trap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/BorderLayoutDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/BorderLayoutDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/CaiFenJframeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/CaiFenJframeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/CheckBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/CheckBoxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/ComboBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/ComboBoxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/FlowLayoutDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/FlowLayoutDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/GridLayoutDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/GridLayoutDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/ImgWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/ImgWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/JpanelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/JpanelDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/RongQiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/RongQiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-demo/src/com/soft1841/TextFiledDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-demo/src/com/soft1841/swing_test/TextFiledDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,8 +14,8 @@
     <session id="1237182633">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.121" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
@@ -123,46 +26,100 @@
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="143" />
+          <entry key="java" value="167" />
           <entry key="jpg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="143" />
+          <entry key="JAVA" value="167" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="49" />
-          <entry key="java" value="24797" />
+          <entry key="java" value="31497" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24797" />
+          <entry key="JAVA" value="31497" />
           <entry key="PLAIN_TEXT" value="58" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/DateFormateTest.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
-              <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+            <state relative-caret-position="126">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo16.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Management_system/Student_System1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="72" column="69" selection-start-line="72" selection-start-column="69" selection-end-line="72" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -176,34 +133,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>course</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/book-demo/src/week1/ChatAtTest.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/RongQiDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/BorderLayoutDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/FlowLayoutDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/GridLayoutDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/JpanelDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/TextFiledDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/CheckBoxDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/ComboBoxDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo9.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/CaiFenJframeDemo.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/App.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/LabelTest.java" />
-        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/LableTest.java" />
-        <option value="$PROJECT_DIR$/book-demo/src/week2/BookDemo.java" />
-        <option value="$PROJECT_DIR$/book-demo/src/week2/ExchangeRate.java" />
-        <option value="$PROJECT_DIR$/book-demo/src/week2/BorrowABook.java" />
-        <option value="$PROJECT_DIR$/book-demo/src/week2/Restaurant.java" />
-        <option value="$PROJECT_DIR$/book-demo/src/week2/RestaurantDemo.java" />
-        <option value="$PROJECT_DIR$/book-demo/src/week2/Cumputer.java" />
-        <option value="$PROJECT_DIR$/book-demo/src/week2/Pad.java" />
         <option value="$PROJECT_DIR$/book-demo/src/week2/Pad2.java" />
         <option value="$PROJECT_DIR$/book-demo/src/week2/OverLoadTest.java" />
         <option value="$PROJECT_DIR$/book-demo/src/week2/Tomato.java" />
@@ -233,6 +173,28 @@
         <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/BorrowABook.java" />
         <option value="$PROJECT_DIR$/book-demo/src/com/soft1841/BreakOutsideNested.java" />
         <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/DateFormateTest.java" />
+        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/ConstantsTest.java" />
+        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/ListTest.java" />
+        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/IteratorTest.java" />
+        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/TreeSetTest.java" />
+        <option value="$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo2.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo3.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo1.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo4.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo5.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo6.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo7.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo8.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo9.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo10.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo11.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo12.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo13.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo14.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo15.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo16.java" />
+        <option value="$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Management_system/Student_System1.java" />
       </list>
     </option>
   </component>
@@ -251,11 +213,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="10" />
-    <option name="width" value="1070" />
-    <option name="height" value="1024" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-22" />
+    <option name="y" value="1" />
+    <option name="width" value="1119" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -268,6 +230,28 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="example-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+              <item name="Array_test" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="example-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="swing-demo" type="462c0819:PsiDirectoryNode" />
@@ -298,7 +282,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555053195228" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556691516391" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookmanage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -306,6 +290,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -338,13 +323,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateFormateTest">
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.bookswing.week2.Book" />
-      <module name="book-demo" />
+  <component name="RunManager" selected="Application.Student_System1">
+    <configuration name="Demo13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.Array_test.Demo13" />
+      <module name="self-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.bookswing.week2.*" />
+          <option name="PATTERN" value="com.soft1841.Array_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakOutsideNested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.bookswing.week2.BreakOutsideNested" />
-      <module name="book-demo" />
+    <configuration name="Demo14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.Array_test.Demo14" />
+      <module name="self-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.bookswing.week2.*" />
+          <option name="PATTERN" value="com.soft1841.Array_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChatAtTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.ChatAtTest" />
-      <module name="book-demo" />
+    <configuration name="Demo15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.Array_test.Demo15" />
+      <module name="self-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.swing_test.*" />
+          <option name="PATTERN" value="com.soft1841.Array_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateFormateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.week3.DateFormateTest" />
-      <module name="swing-demo" />
+    <configuration name="Demo16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.Array_test.Demo16" />
+      <module name="self-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.week3.*" />
+          <option name="PATTERN" value="com.soft1841.Array_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,12 +376,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.week2.Trap" />
-      <module name="swing-demo" />
+    <configuration name="Student_System1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.Array_test.Management_system.Student_System1" />
+      <module name="self-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.week2.*" />
+          <option name="PATTERN" value="com.soft1841.Array_test.Management_system.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,19 +390,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Trap" />
-      <item itemvalue="Application.Book" />
-      <item itemvalue="Application.BreakOutsideNested" />
-      <item itemvalue="Application.ChatAtTest" />
-      <item itemvalue="Application.DateFormateTest" />
+      <item itemvalue="Application.Demo13" />
+      <item itemvalue="Application.Demo14" />
+      <item itemvalue="Application.Demo15" />
+      <item itemvalue="Application.Demo16" />
+      <item itemvalue="Application.Student_System1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateFormateTest" />
-        <item itemvalue="Application.ChatAtTest" />
-        <item itemvalue="Application.BreakOutsideNested" />
-        <item itemvalue="Application.Book" />
-        <item itemvalue="Application.Trap" />
+        <item itemvalue="Application.Student_System1" />
+        <item itemvalue="Application.Demo16" />
+        <item itemvalue="Application.Demo15" />
+        <item itemvalue="Application.Demo14" />
+        <item itemvalue="Application.Demo13" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +427,8 @@
       <workItem from="1554300421997" duration="32351000" />
       <workItem from="1554653332699" duration="6499000" />
       <workItem from="1554819088121" duration="11558000" />
-      <workItem from="1555051448698" duration="1675000" />
+      <workItem from="1555051448698" duration="7074000" />
+      <workItem from="1556445350879" duration="20717000" />
     </task>
     <task id="LOCAL-00001" summary="异常处理语句">
       <created>1554821860571</created>
@@ -455,13 +441,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106924000" />
+    <option name="totallyTimeSpent" value="133040000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-17" y="1" width="895" height="839" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116621986" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2437276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,14 +456,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29305136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.85212296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39879155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31722054" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32579187" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32937685" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -502,130 +488,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="异常处理语句" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/JTextFieldTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/MyFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/MyImageIcon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/RadioButtonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/week3/DateTest.java" />
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/DateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/BorrowABook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/ExchangeRate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/OverLoadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/Pad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/Pad2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/Tomato.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/Demo/RestaurantDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week1/JButtonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/BitwiseOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/BreakTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/ContinueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/GetArrayLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/GetDay.java" />
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/GetSum.java" />
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/IrreguLarArray.java" />
-    <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/Link.java" />
     <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/ListTest.java" />
     <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/LoginService.java" />
     <entry file="file://$PROJECT_DIR$/book-demo/src/com/soft1841/bookswing/week2/Multiplication.java" />
@@ -752,11 +614,171 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/DateFormateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
+        <state relative-caret-position="672">
           <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/ConstantsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/IteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/TreeSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-demo/src/com/soft1841/week3/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Demo16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-demo/src/com/soft1841/Array_test/Management_system/Student_System1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="72" column="69" selection-start-line="72" selection-start-column="69" selection-end-line="72" selection-end-column="69" />
         </state>
       </provider>
     </entry>
